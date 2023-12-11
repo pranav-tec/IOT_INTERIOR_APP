@@ -1,7 +1,7 @@
 # IOT_INTERIOR_APP
 # Team Members:
 - nagapranav chakilam - SE20UARI039
-- saketh kumar Noothi - SE20UARI133
+- Nithin reddy Noothi - SE20UARI111
 
 Make the AR scene using the unity3D. This project showcases an innovative Augmented Reality application developed using Unity#D, designed to bring a unique and 
 interactive interior experience to users. The application allows users to place a virtual interior object into their real-world environment. Leveraging ARKit's/RealityKit's 
